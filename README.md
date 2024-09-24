@@ -1,6 +1,4 @@
 
-Here’s a basic README.md file for your Job Application Tracker project:
-
 Job Application Tracker
 Project Overview
 The Job Application Tracker is a command-line interface (CLI) tool designed to help users manage and keep track of their job applications. Users can add details about job positions they've applied for, track the status of each application, and organize this data by company.
